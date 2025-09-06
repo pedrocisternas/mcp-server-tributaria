@@ -1,8 +1,8 @@
 {
-  "name": "mcp-server-supabase",
+  "name": "mcp-server-tributaria",
   "version": "0.1.0",
   "private": true,
-  "description": "Servidor MCP para Supabase desplegado en Vercel con Fluid Compute",
+  "description": "Servidor MCP para Tributaria desplegado en Vercel con Fluid Compute",
   "main": "index.js",
   "scripts": {
     "dev": "next dev",
@@ -42,6 +42,6 @@
     "ai",
     "fluid-compute"
   ],
-  "author": "Nutria Team",
+  "author": "Tributaria Team",
   "license": "MIT"
 }

@@ -204,7 +204,7 @@ export default function HomePage() {
 
       <footer style={{ textAlign: 'center', marginTop: '50px', padding: '20px', color: '#6b7280', fontSize: '0.9rem' }}>
         <p style={{ margin: '0' }}>
-          ✨ Construido con ❤️ por el equipo nutrIA usando la implementación oficial de Supabase MCP
+          ✨ Construido con ❤️ por el equipo Tributaria usando la implementación oficial de Supabase MCP
         </p>
       </footer>
     </div>

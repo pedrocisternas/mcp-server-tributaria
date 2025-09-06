@@ -110,7 +110,7 @@ export async function getProjectInfo() {
     
     return {
       projectRef: process.env.SUPABASE_PROJECT_REF || 'unknown',
-      name: 'nutrIA',
+      name: 'Tributaria',
       url: process.env.SUPABASE_URL || 'unknown',
       connected: !connectionTest.error,
       hasAnonKey: !!process.env.SUPABASE_ANON_KEY,

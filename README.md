@@ -332,4 +332,4 @@ npm run lint       # Linter
 
 ---
 
-**✨ ¡Construido con ❤️ por el equipo nutrIA usando la implementación oficial de Supabase MCP!** 
+**✨ ¡Construido con ❤️ por el equipo Tributaria usando la implementación oficial de Supabase MCP!** 
