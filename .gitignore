@@ -107,3 +107,5 @@ dist/
 # temporary folders
 tmp/
 temp/ .env.local
+
+.cursor/
