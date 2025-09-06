@@ -1,0 +1,16 @@
+{
+  "functions": {
+    "app/api/[transport]/route.ts": {
+      "maxDuration": 300,
+      "memory": 1024
+    }
+  },
+  "buildCommand": "npm run build",
+  "devCommand": "npm run dev",
+  "framework": "nextjs",
+  "outputDirectory": ".next",
+  "installCommand": "npm install",
+  "env": {
+    "NODE_ENV": "production"
+  }
+} 
